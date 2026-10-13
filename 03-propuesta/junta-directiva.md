@@ -21,24 +21,24 @@ Simulación presencial de una junta directiva técnica, grabada de forma continu
 
 | Participante | Rol | Perfil en la sesión |
 |---|---|---|
-| Fabi | Scrum Master | Facilitadora y mediadora (asertiva) |
+| Fabiola | Scrum Master | Facilitadora y mediadora (asertiva) |
 | Rodrigo | Product Manager | Dominante, presiona por fechas y costos |
 | Christian | Tech Lead | Racional, protege la calidad de lo que se entrega |
 | Lucia | QA / Auditora | Analítica y obstinada, siempre propone soluciones |
-| Sebas | Desarrollador | Práctico, realista con tiempos y límites técnicos |
-| Chivi | Gerente de Relaciones con Clientes | Stakeholder (pasivo-agresivo) |
+| Sebastián | Desarrollador | Práctico, realista con tiempos y límites técnicos |
+| Francisco | Gerente de Relaciones con Clientes | Stakeholder (pasivo-agresivo) |
 
 ## Material utilizado
 
 | Documento | Usado por | Para qué |
 |---|---|---|
-| Libreta de actas | Fabi | Registrar reglas, acuerdos, riesgos y responsables |
-| Pizarrón con la agenda de 6 bloques | Fabi | Mantener el orden de la reunión |
-| Reloj de arena | Fabi | Controlar los tiempos de cada intervención |
-| Notas de campo de las visitas a las casetas | Chivi | Exponer los hallazgos de las entrevistas |
+| Libreta de actas | Fabiola | Registrar reglas, acuerdos, riesgos y responsables |
+| Pizarrón con la agenda de 6 bloques | Fabiola | Mantener el orden de la reunión |
+| Reloj de arena | Fabiola | Controlar los tiempos de cada intervención |
+| Notas de campo de las visitas a las casetas | Francisco | Exponer los hallazgos de las entrevistas |
 | Reporte preliminar impreso (ranking de errores por frecuencia) | Lucia | Priorizar los problemas encontrados |
 | Apuntes técnicos y carpetas | Christian | Respaldar la propuesta de inventario y la arquitectura |
-| Plan semanal de entregas (4 semanas) | Sebas | Negociar plazos según sus horas disponibles |
+| Plan semanal de entregas (4 semanas) | Sebastián | Negociar plazos según sus horas disponibles |
 | Lista de criterios mínimos para evaluar software comercial | Lucia | Decidir si se adopta una solución ya hecha |
 
 ## Agenda de la reunión
