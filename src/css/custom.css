@@ -1,30 +1,89 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Estilos globales y paleta institucional para Docusaurus
  */
 
-/* You can override the default Infima variables here. */
+/* ==========================================================================
+   1. PALETA MODO CLARO (Azul Marino / Formal)
+   ========================================================================== */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  /* Color primario: Azul marino profesional */
+  --ifm-color-primary: #1e3a8a;
+  --ifm-color-primary-dark: #1b347c;
+  --ifm-color-primary-darker: #193175;
+  --ifm-color-primary-darkest: #152861;
+  --ifm-color-primary-light: #214098;
+  --ifm-color-primary-lighter: #23439f;
+  --ifm-color-primary-lightest: #274bb4;
+
+  /* Fondos y textos */
+  --ifm-background-color: #f8fafc;        /* Gris muy claro, descansado a la vista */
+  --ifm-font-color-base: #1e293b;         /* Gris oscuro para mayor contraste */
+  --ifm-heading-color: #0f172a;            /* Títulos azul noche muy oscuro */
+
+  /* Tipografía y bloques */
+  --ifm-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --ifm-code-font-size: 90%;
+  --ifm-global-radius: 6px;                /* Bordes ligeramente redondeados y sobrios */
+  --docusaurus-highlighted-code-line-bg: rgba(30, 58, 138, 0.08);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* ==========================================================================
+   2. PALETA MODO OSCURO (Azul Real / Profesional)
+   ========================================================================== */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  /* Color primario: Azul institucional más claro para destacar sobre fondo oscuro */
+  --ifm-color-primary: #3b82f6;
+  --ifm-color-primary-dark: #2563eb;
+  --ifm-color-primary-darker: #1d4ed8;
+  --ifm-color-primary-darkest: #1e40af;
+  --ifm-color-primary-light: #60a5fa;
+  --ifm-color-primary-lighter: #93c5fd;
+  --ifm-color-primary-lightest: #bfdbfe;
+
+  /* Fondos y textos en modo oscuro */
+  --ifm-background-color: #0f172a;        /* Azul Slate oscuro */
+  --ifm-font-color-base: #e2e8f0;
+  --ifm-heading-color: #ffffff;
+
+  --docusaurus-highlighted-code-line-bg: rgba(59, 130, 246, 0.15);
+}
+
+/* ==========================================================================
+   3. DETALLES ESTILÍSTICOS FORMALES
+   ========================================================================== */
+
+/* Barra de navegación superior */
+.navbar {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+[data-theme='dark'] .navbar {
+  border-bottom: 1px solid rgba(51, 65, 85, 0.8);
+}
+
+/* Menú lateral (Sidebar) */
+.menu__link--active {
+  font-weight: 600;
+}
+
+/* Tablas con acabado académico */
+.markdown table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+.markdown table th {
+  background-color: var(--ifm-color-primary);
+  color: #ffffff;
+  font-weight: 600;
+  text-align: left;
+}
+
+/* Bloques de advertencia / notas (Admonitions) */
+.alert {
+  border-radius: var(--ifm-global-radius);
+  border-left-width: 4px;
 }
