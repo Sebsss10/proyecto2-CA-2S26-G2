@@ -12,13 +12,12 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 * **Días de atención:** Exclusivamente domingos (de 3:00 PM a 10:00 PM).
 * **Personal:** 4 colaboradoras fijas + 2 propietarios en caja.
 * **Tiempo de trayectoria:** 21 años de servicio.
+https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/view?usp=sharing
 
 ### Grabación de Audio
+<iframe src="https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/view?usp=sharing" width="100%" height="100" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
 
-<video controls style={{ width: '100%', height: '50px', marginTop: '10px', marginBottom: '20px' }}>
-  <source src={require('/img/refacciones-las-delicias.mp4').default} type="video/mp4" />
-  Tu navegador no soporta el reproductor.
-</video>
+---
 
 ### Resumen Operativo y Puntos de Dolor Identificados
 1. **Picos de saturación:** La mayor afluencia de clientes ocurre de **6:00 PM a 8:00 PM**, momentos en los que el flujo de pedidos se concentra de forma intensiva.
@@ -34,13 +33,11 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 * **Giro del negocio:** Venta de refacciones y desayunos rápidos en entorno universitario.
 * **Horario de atención:** Lunes a viernes, de **6:00 AM a 10:00 AM**.
 * **Personal:** 1 persona (atendido únicamente por la propietaria).
-
+* 
 ### Grabación de Audio
+<iframe src="https://drive.google.com/file/d/1m4ZXPaa-QN2-CIpQhRdbVBB2nM1N-dA-/view?usp=sharing" width="100%" height="100" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
 
-<video controls style={{ width: '100%', height: '50px', marginTop: '10px', marginBottom: '20px' }}>
-  <source src={require('/img/refacciones-anlu.mp4').default} type="video/mp4" />
-  Tu navegador no soporta el reproductor.
-</video>
+---
 
 ### Resumen Operativo y Puntos de Dolor Identificados
 1. **Horario crítico y alta presión:** El momento de mayor demanda ocurre entre las **7:00 AM y 8:30 AM**, donde debe atender de forma individual a clientes que van con el tiempo justo hacia sus labores o clases.
