@@ -1,4 +1,5 @@
 ---
+slug: /
 sidebar_position: 1
 title: Proyecto 2 - Comunicación Asertiva
 ---
