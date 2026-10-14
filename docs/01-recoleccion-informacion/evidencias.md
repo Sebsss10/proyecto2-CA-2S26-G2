@@ -14,7 +14,7 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 * **Tiempo de trayectoria:** 21 años de servicio.
 
 ### Grabación de Audio
-<iframe src="https://drive.google.com/file/d/1m4ZXPaa-QN2-CIpQhRdbVBB2nM1N-dA-/preview" width="100%" height="100" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
+<iframe src="https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/view?usp=sharing" width="100%" height="100" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
 
 ### Resumen Operativo y Puntos de Dolor Identificados
 1. **Picos de saturación:** La mayor afluencia de clientes ocurre de **6:00 PM a 8:00 PM**, momentos en los que el flujo de pedidos se concentra de forma intensiva.
