@@ -15,10 +15,10 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 
 ### Grabación de Audio
 
-<audio controls style={{ width: '100%', marginTop: '10px', marginBottom: '20px' }}>
-  <source src="/img/Refacciones Las Delicias.mp4" type="audio/mp4" />
-  Tu navegador no soporta el reproductor de audio.
-</audio>
+<video controls style={{ width: '100%', height: '50px', marginTop: '10px', marginBottom: '20px' }}>
+  <source src={require('/img/refacciones-las-delicias.mp4').default} type="video/mp4" />
+  Tu navegador no soporta el reproductor.
+</video>
 
 ### Resumen Operativo y Puntos de Dolor Identificados
 1. **Picos de saturación:** La mayor afluencia de clientes ocurre de **6:00 PM a 8:00 PM**, momentos en los que el flujo de pedidos se concentra de forma intensiva.
@@ -37,10 +37,10 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 
 ### Grabación de Audio
 
-<audio controls style={{ width: '100%', marginTop: '10px', marginBottom: '20px' }}>
-  <source src="/img/Refacciones Anlu.mp4" type="audio/mp4" />
-  Tu navegador no soporta el reproductor de audio.
-</audio>
+<video controls style={{ width: '100%', height: '50px', marginTop: '10px', marginBottom: '20px' }}>
+  <source src={require('/img/refacciones-anlu.mp4').default} type="video/mp4" />
+  Tu navegador no soporta el reproductor.
+</video>
 
 ### Resumen Operativo y Puntos de Dolor Identificados
 1. **Horario crítico y alta presión:** El momento de mayor demanda ocurre entre las **7:00 AM y 8:30 AM**, donde debe atender de forma individual a clientes que van con el tiempo justo hacia sus labores o clases.
