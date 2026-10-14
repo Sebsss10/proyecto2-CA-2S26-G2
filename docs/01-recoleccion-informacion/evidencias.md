@@ -35,7 +35,7 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 * **Horario de atención:** Lunes a viernes, de **6:00 AM a 10:00 AM**.
 * **Personal:** 1 persona (atendido únicamente por la propietaria).
 
-### 🔊 Grabación de Audio
+### Grabación de Audio
 
 <audio controls style={{ width: '100%', marginTop: '10px', marginBottom: '20px' }}>
   <source src="/img/Refacciones Anlu.mp4" type="audio/mp4" />
