@@ -12,7 +12,7 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 * **Días de atención:** Exclusivamente domingos (de 3:00 PM a 10:00 PM).
 * **Personal:** 4 colaboradoras fijas + 2 propietarios en caja.
 * **Tiempo de trayectoria:** 21 años de servicio.
-https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/view?usp=sharing
+
 
 ### Grabación de Audio
 <iframe src="https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/view?usp=sharing" width="100%" height="100" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/view?usp=shari
 * **Giro del negocio:** Venta de refacciones y desayunos rápidos en entorno universitario.
 * **Horario de atención:** Lunes a viernes, de **6:00 AM a 10:00 AM**.
 * **Personal:** 1 persona (atendido únicamente por la propietaria).
-* 
+  
 ### Grabación de Audio
 <iframe src="https://drive.google.com/file/d/1m4ZXPaa-QN2-CIpQhRdbVBB2nM1N-dA-/view?usp=sharing" width="100%" height="100" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
 
