@@ -25,7 +25,7 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 
 ### Grabación de audio
 
-<iframe src="https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/preview" width="100%" height="80" allow="autoplay" style="border-radius: 8px; border: 1px solid #ccc; margin-bottom: 1.5rem;"></iframe>
+<iframe src="https://drive.google.com/file/d/1_qOM9MJdWU5AYJlhr7WA44DsVuSdzcs3/preview" width="100%" height="80" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
 
 ### Resumen operativo y puntos de dolor identificados
 
@@ -50,7 +50,7 @@ A continuación se presentan las entrevistas realizadas como parte del levantami
 
 ### Grabación de audio
 
-<iframe src="https://drive.google.com/file/d/1m4ZXPaa-QN2-CIpQhRdbVBB2nM1N-dA-/preview" width="100%" height="80" allow="autoplay" style="border-radius: 8px; border: 1px solid #ccc; margin-bottom: 1.5rem;"></iframe>
+<iframe src="https://drive.google.com/file/d/1m4ZXPaa-QN2-CIpQhRdbVBB2nM1N-dA-/preview" width="100%" height="80" allow="autoplay" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }}></iframe>
 
 ### Resumen operativo y puntos de dolor identificados
 
