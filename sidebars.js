@@ -1,16 +1,12 @@
 // @ts-check
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/**
- * @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
- */
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   tutorialSidebar: [
-    // 1. Proyecto 2
+    // 1. Proyecto 2 (Página principal)
     {
       type: 'doc',
-      id: 'index', // Nombre de tu archivo principal/portada en docs/ (ej. 'index' o 'intro')
+      id: 'intro',
       label: 'Proyecto 2 - Comunicación Asertiva',
     },
     // 2. Recolección de Información
@@ -18,8 +14,9 @@ const sidebars = {
       type: 'category',
       label: 'Recolección de Información',
       items: [
-        '01-recoleccion-informacion/flujo-negocio',
-        '01-recoleccion-informacion/preguntas',
+        'recoleccion-informacion/justificacion',
+        'recoleccion-informacion/preguntas',
+        'recoleccion-informacion/evidencias',
       ],
     },
     // 3. Análisis
@@ -27,7 +24,8 @@ const sidebars = {
       type: 'category',
       label: 'Análisis',
       items: [
-        '02-analisis/junta-directiva',
+        'analisis/flujo-negocio',
+        'analisis/requisitos',
       ],
     },
     // 4. Propuesta
@@ -35,15 +33,17 @@ const sidebars = {
       type: 'category',
       label: 'Propuesta',
       items: [
-        '03-propuesta/flujo-solucion',
-        '03-propuesta/acuerdos-tradeoffs',
-        '03-propuesta/elevator-pitch',
+        'propuesta/flujo-solucion',
+        'propuesta/acuerdos-tradeoffs',
+        'propuesta/junta-directiva',
+        'propuesta/elevator-pitch',
+        'propuesta/documento-postmortem',
       ],
     },
     // 5. Tabla de Participación
     {
       type: 'doc',
-      id: '02-analisis/participacion',
+      id: 'tabla-participacion/participacion',
       label: 'Tabla de Participación',
     },
   ],
