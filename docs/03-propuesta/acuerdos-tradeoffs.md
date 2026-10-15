@@ -6,12 +6,12 @@
 
 Para lograr la adopción tecnológica en Refacciones Las Delicias, nuestra estrategia se basa en:
 
-mermaid
+```mermaid
 graph LR
     A[Proceso Tradicional] --> B[Digitalización de Punto Crítico]
     B --> C[Operación Optimizada]
 
-
+```
 ## Acuerdos Alcanzados y Análisis de Trade-offs (Junta Directiva)
 
 ### Acuerdo 1: Implementación del Panel Visual de Comandas en Pantalla
