@@ -18,7 +18,7 @@ A continuacion se presentan las entrevistas realizadas como parte del levantamie
 - **Tiempo de trayectoria:** 21 años de servicio.
 
 <p align="center">
-  <img src="/img/entrevista-refacciones.jpg" alt="Entrevista Refacciones Las Delicias" width="100%" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }} />
+  <img src="/img/entrevista-refacciones.jpg" alt="Entrevista Refacciones Las Delicias" width="100%" />
 </p>
 
 ### Grabación de audio
