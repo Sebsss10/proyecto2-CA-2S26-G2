@@ -10,12 +10,16 @@ A continuacion se presentan las entrevistas realizadas como parte del levantamie
 
 ## Entrevista 1: Refacciones Las Delicias
 
-* **Entrevistada:** Alicis Rojas
-* **Puesto / Rol:** Propietaria y Encargada de Operaciones
-* **Giro del negocio:** Venta de comida rapida y refacciones de fin de semana (hamburguesas, papas, frappes, smoothies, pasteles, nachos, cappuccinos, bebidas).
-* **Dias de atencion:** Exclusivamente domingos (de 3:00 PM a 10:00 PM).
-* **Personal:** 4 colaboradoras fijas + 2 propietarios en caja.
-* **Tiempo de trayectoria:** 21 años de servicio.
+- **Entrevistada:** Alicis Rojas
+- **Puesto / Rol:** Propietaria y Encargada de Operaciones
+- **Giro del negocio:** Venta de comida rapida y refacciones de fin de semana (hamburguesas, papas, frappes, smoothies, pasteles, nachos, cappuccinos, bebidas).
+- **Dias de atencion:** Exclusivamente domingos (de 3:00 PM a 10:00 PM).
+- **Personal:** 4 colaboradoras fijas + 2 propietarios en caja.
+- **Tiempo de trayectoria:** 21 años de servicio.
+
+<p align="center">
+  <img src="/img/entrevista-refacciones.jpg" alt="Entrevista Refacciones Las Delicias" width="100%" style={{ borderRadius: '8px', border: '1px solid #ccc', marginBottom: '1.5rem' }} />
+</p>
 
 ### Grabación de audio
 
