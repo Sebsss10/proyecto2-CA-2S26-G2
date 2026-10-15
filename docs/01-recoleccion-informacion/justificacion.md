@@ -1,7 +1,4 @@
 # Justificacion de Seleccion de Negocio
-
----
-
 ## Decision del Equipo
 
 El equipo de trabajo decidio enfocar de manera exclusiva el analisis, levantamiento de requerimientos y diseño de la propuesta tecnica en el comercio **Refacciones Las Delicias**.
