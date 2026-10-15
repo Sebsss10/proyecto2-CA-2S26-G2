@@ -1,4 +1,3 @@
-# Flujo de la solución
 # Flujo de la Solución Propuesta y Arquitectura de Prototipo
 
 ---
