@@ -45,3 +45,38 @@ A continuacion se presentan las entrevistas realizadas como parte del levantamie
 3. **Manejo de stock y sustituciones:** Realiza compras por mayoreo 3 veces por semana y recibe pan diariamente. A pesar de calcular las proporciones, es comun que se agote algun ingrediente en horas pico, requiriendo improvisar o sustituir insumos de forma agil.
 4. **Arqueo diario:** Al finalizar la jornada (10:00 AM), efectua un cuadre manual del inventario residual contra los ingresos de caja en efectivo.
 5. **Barrera tecnologica:** Intentó utilizar herramientas digitales en el pasado, pero las descartó porque siente que operar pantallas o aplicaciones en el mostrador le resta segundos valiosos durante la atencion al cliente.
+
+
+# Análisis de Flujo de Negocio y Contexto Operativo
+
+El presente análisis evalúa la dinámica operativa, estructura de trabajo y restricciones técnicas de Refacciones Las Delicias para el diseño de soluciones tecnológicas adaptadas a su entorno real.
+
+---
+
+## Comercio Evaluado: Refacciones Las Delicias
+
+### Descripción General
+
+Negocio familiar con 21 años de trayectoria, enfocado en la preparación y venta de comida rápida (hamburguesas, papas, frappes, smoothies, pasteles, nachos y bebidas) durante jornadas dominicales.
+
+- **Horario de operación:** Exclusivamente domingos de 3:00 PM a 10:00 PM.
+- **Estructura del equipo:** 6 personas en total (2 encargados en caja y administración + 4 colaboradoras en área de preparación y despacho).
+- **Flujo de atención:** Picos intensivos de demanda concentrados entre las 6:00 PM y las 8:00 PM.
+
+### Diagrama del Flujo Operativo Actual
+
+```mermaid
+graph TD
+    A[Cliente realiza pedido en caja] --> B[Caja registradora imprime ticket de papel]
+    B --> C[Ticket se clava en la barra metálica del mostrador]
+    C --> D[Colaboradoras preparan el pedido según el ticket]
+    D --> E[Se retira el ticket de la barra y se entrega la orden]
+    E --> F[Cobro 100% en efectivo]
+```
+
+### Desafíos y Puntos de Dolor Identificados
+
+1. **Saturación en horas pico:** Durante el intervalo de 6:00 PM a 8:00 PM, la acumulación masiva de pedidos genera confusión en el orden de llegada.
+2. **Manejo físico de tickets:** Ocurre traspapeleo o retiro accidental de comandas impresas antes de ser despachadas, derivando en retrasos o platillos entregados por error.
+3. **Limitación en medios de pago:** La preferencia por cobro en efectivo responde al temor de alentar la atención en caja con la manipulación de terminales bancarias o claves.
+4. **Insumos estacionales:** La demanda de productos helados (frappes y smoothies) varía drásticamente según las condiciones climáticas del fin de semana.
